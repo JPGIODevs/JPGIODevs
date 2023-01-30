@@ -9,20 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738EC&center=true&width=435&lines=(Developer%2FSolution-Maker%2FCreator)" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.instagram.com/jpgiodevs"><img width="32px" alt="Instagram" title="Instagram" src="hhttps://cdn-icons-png.flaticon.com/512/87/87390.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+#
 
 I'm a Software Engineer of 10+ years, Specialising in the art of Artificial Intelligence and Machine Learning integration, taking the world forward with my "Make a difference" approach. All developments and solutions are built from the ground up, worked meticulously from proposal to delivery. My extensive, passionate career in both entrepeneurship, software engineering and media creation can provide the imagination and love to create your wildest technological dreams, and then implement them seamlessly!
 
