@@ -9,7 +9,7 @@
 
 #
 
-I'm a Software Engineer of 10+ years, Specialising in the art of Artificial Intelligence and Machine Learning integration, taking the world forward with my "Make a difference" approach. All developments and solutions are built from the ground up, worked meticulously from proposal to delivery. My extensive, passionate career in both entrepeneurship, software engineering and media creation can provide the imagination and love to create your wildest technological dreams, and then implement them seamlessly!
+I'm a Software Engineer of 10+ years, Specialising in Rails/GO/Python as well as HTML/CSS/JS, taking the world forward with my "Make a difference" approach. All developments and solutions are built from the ground up, worked meticulously from proposal to delivery. My extensive, passionate career in both entrepeneurship, software engineering and media creation can provide the imagination and love to create your wildest technological dreams, and then implement them seamlessly!
 
    <p align="left">
       <a href="https://github.com/JPGIODevs?tab=followers">
@@ -23,9 +23,9 @@ I'm a Software Engineer of 10+ years, Specialising in the art of Artificial Inte
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Rails" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+<img align="left" alt="GO" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
