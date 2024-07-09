@@ -7,9 +7,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738EC&center=true&width=435&lines=(Developer%2FSolution-Maker%2FCreator)" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/600x315/5e/6d/0b/5e6d0b58ad5c58115405d6249ec58b23.jpg"/>
+</p>
+<p align='center'>^ My 1967 Trabant 601s : ) </p>
+
 #
 
-I'm a Software Engineer of 10+ years, Specialising in Rails/GO/Python as well as HTML/CSS/JS, taking the world forward with my "Make a difference" approach. All developments and solutions are built from the ground up, worked meticulously from proposal to delivery. My extensive, passionate career in both entrepeneurship, software engineering and media creation can provide the imagination and love to create your wildest technological dreams, and then implement them seamlessly!
+Currently a Digital Consultant, I've been a Software Developer of 10+ years, <b>Specialising in Serverless technologies / AWS Architecture & Full-stack MVC within C# and Rails</b>. 
+
+I work off a clear "get it done" attitude and pride myself in being the hardest worker in any given room! 
+
+Alongside my enthusiasm within the digital space, I partake in Powerlifting / Jiu Jitsu / Snowboarding / Vintage Car & Motorbike restoration. Feel free the quiz me on it!
+
 
    <p align="left">
       <a href="https://github.com/JPGIODevs?tab=followers">
@@ -22,6 +32,7 @@ I'm a Software Engineer of 10+ years, Specialising in Rails/GO/Python as well as
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://ezerus.com.au/wp-content/uploads/2019/05/aws-logo-aws-new-logo-album-on-imgur-ideas.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Rails" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
@@ -51,7 +62,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" /
 
 <details>
  <summary><h3>👨‍💻 Jack's Coding Journey</h3></summary>
-   I started my coding journey at the ripe age of 5. A wonderous little mind became a computer science student with a passion to learn everything I could about this programming world - from linux to integrated systems to neural networks. The gateway-drug was python, creating small games into my teens, moving onto full-blown membership database software for my home-town gym. This burning desire to constantly expand, to constantly make a difference, drew me to create JPGIO-Developments. All the while pursuing my forever-present skillset in media creation (photography, cinematography, advertising). My automotive-engineering job of my late-teens fell to side whilst I continued pursuing my dreams, and the rest is history. Now I've taken the leap away from that safety net of job into this uncomfortable, unexplored world that it being a creator and entrepeneur (once again). Not once have I looked back. The desire within me to develop the solutions of the future, to connect with the greatest minds of our planet, to deliver the best service, to over-achieve, is the same desire which goes into each and every development and solution I will and have ever made. There is a dream - a dream that I'll one day, with yourselves, look upon what we have built, and smile :).
+  THIS IS SLIGHTLY OLD, BARE WITH : )
+   I started my coding journey at the ripe age of 5. A young mind became a computer-science student with a passion to learn everything I could about the programming world - from linux to integrated systems to neural networks. The gateway-drug was .BAT files, creating small games into my teens, moving onto full-blown membership database software for my home-town gym. This burning desire to constantly expand, to constantly make a difference, drew me to create JPGIO-Developments. All the while pursuing my forever-present skillset in media creation (photography, cinematography, advertising). My automotive-engineering job of my late-teens fell to side whilst I continued pursuing my dreams, and the rest is history. I'd taken the leap away from that safety in 2021 into this uncomfortable, unexplored world that is being a developer. Not once have I looked back. I still feel the  desire to develop for solutions of the future, to deliver the best service, to over-achieve and more. But most of-all, to LIVE life in the process : ) Cheers!
 
 [website]: https://jpgiodevelopments.com
 [Linktree]: https://linktr.ee/jpgiodevs
